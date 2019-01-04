@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LearnSocket"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kevinlinpr/Public/LearnSocket"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kevinlinpr/Public/LearnSocket"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LearnSocket">
+				<Option output="/home/kevinlinpr/Public/LearnSocket/LearnSocket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevinlinpr/Public/LearnSocket"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 LearnSocket"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LearnSocket/fast">
+				<Option output="/home/kevinlinpr/Public/LearnSocket/LearnSocket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevinlinpr/Public/LearnSocket"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 LearnSocket/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kevinlinpr/Public/LearnSocket"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/kevinlinpr/Public/LearnSocket/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kevinlinpr/Public/LearnSocket/main.cpp">
+			<Option target="LearnSocket"/>
+		</Unit>
+		<Unit filename="/home/kevinlinpr/Public/LearnSocket/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

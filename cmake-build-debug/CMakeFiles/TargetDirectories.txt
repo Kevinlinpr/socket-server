@@ -1,0 +1,3 @@
+/home/kevinlinpr/Public/LearnSocket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kevinlinpr/Public/LearnSocket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kevinlinpr/Public/LearnSocket/cmake-build-debug/CMakeFiles/LearnSocket.dir

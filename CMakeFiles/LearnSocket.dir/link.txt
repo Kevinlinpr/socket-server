@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LearnSocket.dir/main.cpp.o  -o LearnSocket 
